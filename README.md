@@ -7,6 +7,6 @@
 <br></br>
 ## Pet-Projects
 ### Web-projects
-* [OpenWeatherMapAPI_telegrambot]([https://github.com/Piankov-Michail/C_projects/pull/1/files](https://github.com/Piankov-Michail/python_projects/pull/1/files))
+* [OpenWeatherMapAPI_telegrambot](https://github.com/Piankov-Michail/python_projects/pull/1/files)
 ### Keras_projects
 * [VGG19_Restyling_images](https://github.com/Piankov-Michail/python_projects/pull/2/files)
