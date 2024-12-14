@@ -1,5 +1,11 @@
 # python_projects
 ## University Studies
+### Algorithms and data structures
+* []()
+* []()
+* []()
+* []()
+* []()
 ### Introduction into the development of AI systems
 * [PCA_Clasterization](https://github.com/Piankov-Michail/python_projects/pull/4/files)
 * [Gradien_Pass_Back_Propagation_realisation](https://github.com/Piankov-Michail/python_projects/pull/5/files)
