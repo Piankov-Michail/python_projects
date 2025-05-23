@@ -13,6 +13,7 @@
 * [Cifar10_recognition](https://github.com/Piankov-Michail/python_projects/pull/3/files)
 ### Software for the Development of Artificial Intelligence Systems
 * [Cifar10_autoencoder](https://github.com/Piankov-Michail/python_projects/pull/15/files)
+* [NLP(Word2Vec_SkipGram+NN)](https://github.com/Piankov-Michail/python_projects/pull/16/files)
 <br></br>
 ## Pet-Projects
 ### Web-projects
