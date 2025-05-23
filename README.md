@@ -12,7 +12,7 @@
 * [Gradien_Pass_Back_Propagation_realisation](https://github.com/Piankov-Michail/python_projects/pull/5/files)
 * [Cifar10_recognition](https://github.com/Piankov-Michail/python_projects/pull/3/files)
 ### Software for the Development of Artificial Intelligence Systems
-* [Cifar10 autoencoder](https://github.com/Piankov-Michail/python_projects/pull/15/files)
+* [Cifar10_autoencoder](https://github.com/Piankov-Michail/python_projects/pull/15/files)
 <br></br>
 ## Pet-Projects
 ### Web-projects
