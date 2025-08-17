@@ -20,3 +20,5 @@
 * [OpenWeatherMapAPI_telegrambot](https://github.com/Piankov-Michail/python_projects/pull/1/files)
 ### Keras_projects
 * [VGG19_Restyling_images](https://github.com/Piankov-Michail/python_projects/pull/2/files)
+### Pytorch_projects
+* [Pytorch_Regression_Simple](https://github.com/Piankov-Michail/python_projects/blob/804e08aa4c02059c8f8421dd24b7b05c30144a13/Pytorch_Regression_Simple/Pytorch_Regression_Simple.ipynb)
