@@ -22,4 +22,4 @@
 * [VGG19_Restyling_images](https://github.com/Piankov-Michail/python_projects/pull/2/files)
 ### Pytorch_projects
 * [Pytorch_Regression_Simple](https://github.com/Piankov-Michail/python_projects/blob/804e08aa4c02059c8f8421dd24b7b05c30144a13/Pytorch_Regression_Simple/Pytorch_Regression_Simple.ipynb)
-* [Pytorch_Classification_Simple](https://github.com/Piankov-Michail/python_projects/blob/42dbfd33771779c58ada24b6a04bde9c1e8e4060/Pytorch_Classification_Simple/%20Pytorch_Classification_Simple.ipynb)
+* [Pytorch_Classification_Simple](https://github.com/Piankov-Michail/python_projects/blob/Pytorch_Classification_Simple/Pytorch_Classification_Simple/Pytorch_Classification_Simple.ipynb)
