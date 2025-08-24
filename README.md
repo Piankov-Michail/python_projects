@@ -23,3 +23,4 @@
 ### Pytorch_projects
 * [Pytorch_Regression_Simple](https://github.com/Piankov-Michail/python_projects/blob/804e08aa4c02059c8f8421dd24b7b05c30144a13/Pytorch_Regression_Simple/Pytorch_Regression_Simple.ipynb)
 * [Pytorch_Classification_Simple](https://github.com/Piankov-Michail/python_projects/blob/Pytorch_Classification_Simple/Pytorch_Classification_Simple/Pytorch_Classification_Simple.ipynb)
+* [Pytorch_Classification_CV](https://github.com/Piankov-Michail/python_projects/blob/e4b78349be0453b9596d9c91e6e5b37db8f2cca1/Pytorch_Classification_CV/Pytorch_Classification_CV.ipynb)
