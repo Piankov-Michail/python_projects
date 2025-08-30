@@ -20,6 +20,7 @@
 * [OpenWeatherMapAPI_telegrambot](https://github.com/Piankov-Michail/python_projects/pull/1/files)
 ### Keras_projects
 * [VGG19_Restyling_images](https://github.com/Piankov-Michail/python_projects/pull/2/files)
+* [Keras_RNN_Regression (Apple stocks)](https://github.com/Piankov-Michail/python_projects/blob/ab4c59252c6d954cc34cb79bdb854da871fbaeb8/Keras_RNN_Regression/Keras_RNN_Regression.ipynb)
 ### Pytorch_projects
 * [Pytorch_Regression_Simple](https://github.com/Piankov-Michail/python_projects/blob/804e08aa4c02059c8f8421dd24b7b05c30144a13/Pytorch_Regression_Simple/Pytorch_Regression_Simple.ipynb)
 * [Pytorch_Classification_Simple](https://github.com/Piankov-Michail/python_projects/blob/Pytorch_Classification_Simple/Pytorch_Classification_Simple/Pytorch_Classification_Simple.ipynb)
